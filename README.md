@@ -1,4 +1,4 @@
-#  Asp.Net Core Web API with Angular 7
+#  Asp.Net Core Web API with Angular 7 Tutorial
 ## JWT User Authentication Implemented
 
 <img src="https://raw.githubusercontent.com/fcetinkaya/JWT_Angular7LoginLogout_CoreWebAPI/master/JWTCoreWebApi.JPG"  />
